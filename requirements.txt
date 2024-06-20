@@ -1,7 +1,9 @@
 jupyter-book
-ipython3
 matplotlib
 numpy
 pandas
-plotly
+plotly>=5.15.0
 seaborn
+pyarrow
+ghp-import
+statsmodels
